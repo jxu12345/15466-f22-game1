@@ -1,0 +1,20 @@
+tile: represented by bit1, bit0 separately for color
+background: 64x60 8x8 tiles
+sprite: 8x8 tile
+
+1 palette for every tile, can set 8 palettes
+
+must do:
+parse sprite into tile
+parse background into tiles
+collision checking code
+gravity and acceleration
+
+put sprites together to create something bigger
+
+
+
+TODO:
+Converter and loader for background
+Converter for 4x4 sprites
+Collision checking code
